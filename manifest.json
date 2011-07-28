@@ -1,0 +1,14 @@
+{
+  "name": "com-binbin-brand-chrome",
+  "version": "1.0",
+  "description": "The first extension that I made.",
+  "background_page" : "background.html",
+ 
+  "permissions": [
+    "http://com-binbin-brand.appspot.com/",
+    "contextMenus",
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
