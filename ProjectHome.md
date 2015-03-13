@@ -1,0 +1,1 @@
+com-binbin-brand-for-chrome
